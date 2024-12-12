@@ -1,0 +1,8 @@
+Group Members
+1. Rahul Bhuma
+Enhancements
+A pause menu is accessible by pressing the escape button.
+The pause menu allows you to adjust the Master volume, SoundFX, and Music levels for the game.
+Background music has been added to enhance the gameplay experience.
+There is a 10% chance of encountering a larger red ball instead of the standard one. The big red ball has greater mass and is more effective at breaking walls and slabs.
+The game now features a start menu, a game-over menu, and an about menu for a polished user interface.
